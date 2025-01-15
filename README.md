@@ -1,73 +1,70 @@
-# 👋 Hi, I'm Moinuddin Shaikh
+<h1 align="center">Hi <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" alt="Wave" style="height: 35px; width:35px;"/> I'm Moin Shaikh</h1>
+<h3 align="center">🤖 Data Science & ML Engineer <br> 🔍 AI Enthusiast <br> 📊 Turning Data into Insights</h3>
 
-### 🎓 Data Science Student | 💻 Machine Learning Enthusiast | 🤖 AI Developer
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-I'm a Computer Science Engineering student at Dayananda Sagar University, passionate about transforming data into actionable insights and building intelligent systems.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmoinshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="mrmoinshaikh" /> </p>
 
-## 🚀 What I'm Up To
+<p align="left"> <a href="https://www.linkedin.com/in/moin-shaikh-2493a6220/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mrmoinshaikh" /></a> </p>
 
-- 🔭 Currently working on an AI Virtual Mouse using computer vision
-- 🌱 Learning advanced machine learning techniques and deep learning
-- 👯 Looking to collaborate on data science and ML projects
-- 📚 Expected to graduate in 2025
+- 🎓 Pursuing B.E. in Computer Science at Dayananda Sagar University
+- 🌱 Currently working on **AI Virtual Mouse Development**
+- 🔭 Exploring advanced machine learning and deep learning techniques
+- 📫 Reach me at **mrmoinshaikh6@gmail.com**
 
-## 🛠️ Tech Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/moin-shaikh-2493a6220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moin-shaikh-2493a6220" height="30" width="40" /></a>
+<a href="https://leetcode.com/mrmoinshaikh6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrmoinshaikh6" height="30" width="40" /></a>
+</p>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="70" height="70"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="70" height="70"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="70" height="70"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="70" height="70"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="70" height="70"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="70" height="70"/> </a>
+</p>
 
-### Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+<h3 align="left">🚀 Featured Projects:</h3>
 
-### Tools & Technologies
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+1. **Stock Market Prediction Model**
+   - Implemented Linear Regression and LSTM models
+   - Data processing with Pandas
+   - Trend visualization using Matplotlib
 
-## 📊 Featured Projects
+2. **Image Classifier**
+   - CNN model with 96% accuracy
+   - Flask web integration
+   - Real-time classification capability
 
-### 📈 Stock Market Prediction Model
-- Developed ML model using Linear Regression and LSTM
-- Processed historical data with Pandas
-- Visualized trends using Matplotlib
+3. **Customer Segmentation Analysis**
+   - K-means clustering implementation
+   - Customer behavior analysis
+   - Marketing strategy insights
 
-### 🖼️ Image Classifier
-- Built CNN model with 96% accuracy
-- Integrated with Flask web application
-- Real-time image classification
+4. **Movie Recommendation System**
+   - Collaborative filtering approach
+   - User preference analysis
+   - ML-based recommendations
 
-### 👥 Customer Segmentation Analysis
-- Implemented K-means clustering
-- Analyzed customer demographics
-- Generated marketing insights
+5. **AI Virtual Mouse (In Progress)**
+   - Computer vision implementation
+   - Hand gesture recognition
+   - Touchless control system
 
-### 🎬 Movie Recommendation System
-- Created collaborative filtering system
-- Utilized user preference data
-- Implemented ML-based suggestions
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmoinshaikh&show_icons=true&locale=en&layout=compact" alt="mrmoinshaikh" /></p>
 
-### 🖱️ AI Virtual Mouse (In Progress)
-- Developing computer vision-based control
-- Implementing hand gesture recognition
-- Creating hands-free interaction system
+<br><br><br><br><br><br><br>
 
-## 📫 Let's Connect
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrmoinshaikh&" alt="mrmoinshaikh" /></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mrmoinshaikh6@gmail.com)
+<br><br><br><br><br><br><br>
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
-
----
-💡 *"Data is the new oil, but like oil, it's valuable only when refined into something useful."*
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrmoinshaikh&show_icons=true&locale=en" alt="mrmoinshaikh" /></p>
